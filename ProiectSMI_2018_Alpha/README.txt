@@ -12,7 +12,7 @@
 #
 #	Materials used:
 #
-#	Tensy 3.6
+#	Teensy 3.6
 #	MIC wit amplyfier
 #	IR reciver
 #	Relay Module / Mosfets 
