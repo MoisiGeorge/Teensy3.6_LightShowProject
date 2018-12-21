@@ -25,8 +25,7 @@ University Project with Teensy3.6
 #	
 #
 #
-#	Code Repository: 
-#
+#	Code Repository: https://github.com/MoisiGeorge/Teensy3.6_LightShowProject
 #
 #	
 #
